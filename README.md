@@ -23,11 +23,11 @@ Volume Render
 
 Tracing with Monte Carlo Integration and importance sampling
 
-300 samples per pixel
+1000 samples per pixel
 
-![image-20230724220507722](README.assets/image-20230724220507722.png)
+![image-20230725114039547](README.assets/image-20230725114039547.png)
 
-
+3000 samples per pixel
 
 ![image-20230724222252533](README.assets/image-20230724222252533.png)
 
